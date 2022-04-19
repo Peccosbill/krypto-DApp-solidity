@@ -19,3 +19,7 @@
 
 🎨 TailwindCSS
 
+## Inicializar el proyecto
+
+``npm install tanto en la carpeta client como en la carpeta smart_contract``
+
