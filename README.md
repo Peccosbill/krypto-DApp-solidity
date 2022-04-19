@@ -9,6 +9,8 @@
 
 🍬 Solidity
 
+⛑️ Hardhat
+
 🦊 Metamask
 
 🍕 JavaScript
