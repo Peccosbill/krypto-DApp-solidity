@@ -23,5 +23,5 @@
 
 ``npm install`` tanto en la carpeta client como en la carpeta smart_contract.
 
-Crear un archivo ``.env`` y dentro guardar una variable de entorno llamada ``VITE_GIPHY_API``="con la api key de GIPHY"
+Crear un archivo ``.env`` en la carpeta client y dentro guardar una variable de entorno llamada ``VITE_GIPHY_API``="con la api key de GIPHY"
 
