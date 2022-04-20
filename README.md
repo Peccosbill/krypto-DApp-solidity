@@ -15,7 +15,7 @@
 
 🍕 JavaScript
 
-📱 ReactJS
+⚛️ ReactJS
 
 🎨 TailwindCSS
 
